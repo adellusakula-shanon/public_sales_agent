@@ -1,0 +1,17 @@
+# 🚀 Sales Agent AI Dashboard - Minimal Requirements
+# Only essential packages for public deployment
+
+# Core web framework
+streamlit==1.31.1
+
+# Database connectivity
+pymongo==4.6.1
+
+# AI API
+openai==1.12.0
+
+# Configuration
+python-dotenv==1.0.1
+
+# Date utilities (if needed)
+python-dateutil==2.8.2 
